@@ -1,0 +1,15 @@
+{
+  "name": "lambda-function-url-custom-domain",
+  "version": "1.0.0",
+  "main": "lambda.js",
+  "author": "Walid KARRAY",
+  "license": "MIT",
+  "scripts": {
+    "sls": "sls",
+    "deploy": "sls deploy"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "serverless": "^3.16.0"
+  }
+}
